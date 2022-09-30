@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="assets/front/css/main.css">
     <link rel="stylesheet" href="assets/front/css/responsive.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
-    <title>Lunibiz</title>
+    <title>CPD</title>
 </head>
 
 <body>
@@ -105,21 +105,12 @@
                                     <a href="about.php">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#!">Pricing</a>
-                                </li>
-                                <li>
-                                    <a href="#!">Feature</a>
-                                </li>
-                                <li>
                                     <a href="#!">Services</a>
-                                </li>
-                                <li>
-                                    <a href="#!">Showcase</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="header-btn">
-                            <a href="#!">List Your Vehicle</a>
+                            <a href="#!">Contact Us</a>
                         </div>
                     </div>
                 </div>
