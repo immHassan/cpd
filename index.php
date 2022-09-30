@@ -86,8 +86,8 @@
 " alt="">
                     </div>
                     <div class="index-third-wrap-box-text">
-                        <h6>2019 Toyota Tacoma TRD <span>Off Road Double</span></h6>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h6>HG SOP Manual <span>$300</span></h6>
+                        <p>Our full procedural manual includes sales scripts, advanced checklist, signature pages, triple estimate form, work order form ...</p>
                         <a href="#!">Read More...</a>
                     </div>
                 </div>
@@ -101,8 +101,8 @@
 " alt="">
                     </div>
                     <div class="index-third-wrap-box-text">
-                        <h6>2019 Toyota Tacoma TRD <span>Off Road Double</span></h6>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h6>HG Mini Manual <span>$125</span></h6>
+                        <p>A condensed, 6 page, version of the HG SOP manual, it contains a work order form, our triple estimate sheet, express ...</p>
                         <a href="#!">Read More...</a>
                     </div>
                 </div>
@@ -116,8 +116,8 @@
 " alt="">
                     </div>
                     <div class="index-third-wrap-box-text">
-                        <h6>2019 Toyota Tacoma TRD <span>Off Road Double</span></h6>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h6>Service Menus <span>$150/200</span></h6>
+                        <p>We have different templates to choose from and different size and style menus. We offer printing for this product.</p>
                         <a href="#!">Read More...</a>
                     </div>
                 </div>
@@ -131,8 +131,8 @@
 " alt="">
                     </div>
                     <div class="index-third-wrap-box-text">
-                        <h6>2019 Toyota Tacoma TRD <span>Off Road Double</span></h6>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h6>CPD-CS Cert <span>$100</span></h6>
+                        <p>Certified Professional Detailer - Customer Service Certification</p>
                         <a href="#!">Read More...</a>
                     </div>
                 </div>
@@ -146,8 +146,8 @@
 " alt="">
                     </div>
                     <div class="index-third-wrap-box-text">
-                        <h6>2019 Toyota Tacoma TRD <span>Off Road Double</span></h6>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h6>CPD-SL Cert <span>$100</span></h6>
+                        <p>Certified Professional Detailer - Sales Manager Certification</p>
                         <a href="#!">Read More...</a>
                     </div>
                 </div>
@@ -161,8 +161,8 @@
 " alt="">
                     </div>
                     <div class="index-third-wrap-box-text">
-                        <h6>2019 Toyota Tacoma TRD <span>Off Road Double</span></h6>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h6>CPD-SM Cert <span>$100</span></h6>
+                        <p>Certified Professional Detailer - Service Manager Certification</p>
                         <a href="#!">Read More...</a>
                     </div>
                 </div>
