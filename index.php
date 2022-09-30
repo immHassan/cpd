@@ -5,7 +5,7 @@
         <img src="assets/front/images/banner.png" alt="">
     </div>
     <div class="index-banner-wrap-bg-1">
-        <img src="assets/front/images/banner-02.png" alt="" class="img-fluid">
+        <img src="assets/front/images/banner-02.png"  alt="" class="img-fluid">
     </div>
     <div class="container">
         <div class="row">
@@ -33,12 +33,12 @@
     <div class="index-first-wrap-bg">
         <img src="assets/front/images/first-bg.png" alt="" class="img-fluid">
     </div>
-    <div class="index-first-wrap-bg-2">
+    <!-- <div class="index-first-wrap-bg-2">
         <img src="assets/front/images/bg-1.png" alt="" class="img-fluid">
-    </div>
+    </div> -->
 
     <div class="index-first-wrap-bg-1">
-        <img style="z-index:1;" src="assets/front/images/ft-1.png" alt="" class="img-fluid">
+        <img style="z-index:1; max-width:85%" src="assets/front/images/ft-1.png" alt="" class="img-fluid">
     </div>
     <div class="container">
         <div class="row">
