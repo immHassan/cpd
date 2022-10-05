@@ -1,0 +1,1 @@
+:root{--visage-square-image-container:1}.square-image-container{overflow:hidden;position:relative;width:100%}.square-image-container::after{content:" ";display:block;padding-bottom:100%}.square-image-container-inner{height:100%;position:absolute;width:100%}.square-image-container .fluid-image{height:100%;object-fit:contain;width:100%}

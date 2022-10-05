@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{"0InQ":function(n,t,e){"use strict";e.r(t);var r=e("dI71"),o=e("Nz9T"),u=e.n(o);let i=function(n){function t(){return n.apply(this,arguments)||this}return Object(r.a)(t,n),t.prototype.render=function(){return u.a.createElement("div",null,"Ok!")},t}(u.a.Component);t.default=i}}]);
+//# sourceMappingURL=component---src-pages-healthcheck-jsx-c44db97745948ab27e2f.js.map

@@ -1,0 +1,1 @@
+:root{--visage-progressive-image:1}img.progressive-image{opacity:.25;transition:opacity .3s ease-in}img.progressive-image.progressive-image-eager{opacity:.3}img.progressive-image.progressive-image-eager.progressive-image-loaded{opacity:1}img.progressive-image.progressive-image-loaded{opacity:1}
